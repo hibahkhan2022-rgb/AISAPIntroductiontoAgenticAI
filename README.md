@@ -8,6 +8,9 @@ These are all the supplementary and learning materials for the Introduction to A
 
 
 ## Demos
-Pattern Architectures
-Multi-Agent Collaboration AI Court Case Project
+[Pattern Architectures]
 
+[Pattern Architectures]: https://github.com/hibahkhan2022-rgb/AISAPIntroductiontoAgenticAI/blob/main/AISAF_Pattern_Demos.ipynb
+[Multi-Agent Collaboration AI Court Case Project]
+
+[Multi-Agent Collaboration AI Court Case Project]: https://github.com/hibahkhan2022-rgb/AISAPIntroductiontoAgenticAI/blob/main/aisaf_multiagentcourtcase.ipynb
